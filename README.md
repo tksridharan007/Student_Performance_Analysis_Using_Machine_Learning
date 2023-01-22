@@ -1,5 +1,5 @@
 # Student_Performance_Analysis_Using_Machine_Learning
-This student performance analysis system provides an easy way to students in searching the details of students, academic attendance report and marks/percentage details. Academic performance is the measurement of student achievement across various academic subjects. Teachers and education officials typically measure achievement using classroom performance, graduation rates, and results from standardized tests.In this work it easy to understand that the perfomance of the student were decreased after COVID-19 or online classes.
+This student performance analysis system provides an easy way to students in searching the details of students, academic attendance report and marks/percentage details. Academic performance is the measurement of student achievement across various academic subjects. Teachers and education officials typically measure achievement using classroom performance, graduation rates, and results from standardized tests.In this work it easy to understand that the perfomance of the student were decreased after COVID-19 due to online classes.
 
 # LIBRARIES INSTALLED
 
